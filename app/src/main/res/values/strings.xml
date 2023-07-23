@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">tabsDynamicExampleViewPager2</string>
+    <string name="textShow">Cuerpo del texto a mostrar en el fragment %d.</string>
+    <string name="tabs_description">pestañas de favoritos y de todos los personajes</string>
 </resources>
